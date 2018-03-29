@@ -40,6 +40,8 @@ uint internal value;
 
 ....
 
+{{md  .. /path /to /content.md }} 
+
 Pandoc includes a powerful system for automatic citations and bibliographies, using pandoc-citeproc(which derives from Andrea Rossato's citeproc-hs). This means that you can write a citation like
 
 [see @doe99, pp. 33-35; also @smith04, ch. 1]
