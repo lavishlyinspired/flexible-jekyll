@@ -26,7 +26,7 @@ Embed handlebars templates to make them even prettier.
 {{/markdown}}
 
 
-So, we need to change the value to an empty string like this:
+```js So, we need to change the value to an empty string like this:```
 
 
 ## Code
@@ -44,7 +44,20 @@ adder(2, 6);
 // > 8
 ```
 
+
+
 Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+
+
+
+
+
+
+
+
+
+
+
 
 ## Lists
 
