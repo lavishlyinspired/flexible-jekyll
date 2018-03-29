@@ -28,6 +28,32 @@ Embed handlebars templates to make them even prettier.
 
 So, we need to change the value to an empty string like this:
 
+
+## Code
+
+Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+
+```js
+// Example can be run directly in your JavaScript console
+
+// Create a function that takes two arguments and returns the sum of those arguments
+var adder = new Function("a", "b", "return a + b");
+
+// Call the function
+adder(2, 6);
+// > 8
+```
+
+Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+
+## Lists
+
+
+
+
+
+
+
 1
 baseurl: ""
 Your site will then load as expected.
